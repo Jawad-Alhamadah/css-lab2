@@ -1,0 +1,57 @@
+*{margin: 0%;
+    padding: 0%;
+}
+.img-container{
+    background-image: url("https://early-wildflower-281.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb56a855-0c74-4a0d-84dc-3fb7c76ae0b3%2F0ba5b70c-e4de-4e4b-87f9-3f873e0e9849%2FsoupHedar.jpg?table=block&id=58e976de-39d1-4fa9-968b-81680cf6e458&spaceId=fb56a855-0c74-4a0d-84dc-3fb7c76ae0b3&width=2000&userId=&cache=v2");
+    background-repeat: no-repeat;
+    background-size:100%;
+    position: relative;
+    text-align: center;
+    height: 100vh;
+    border-bottom: 0.5em solid black; 
+}
+
+ body{
+    
+    font-family: 'Quicksand';
+ }
+.text-size-large{
+    font-size: 7em;
+}
+
+.white {
+    color: white;
+}
+.main-header{
+   vertical-align: middle;
+   text-align: center;
+}
+
+.spinner {
+    position: absolute;
+    width: 35vw;
+    bottom: -35vh;
+    right: 30%;
+    text-align: center;
+     
+}
+
+.intro{
+
+
+    font-size: 1.7em;
+}
+
+.cooking-img{
+    width: 20vw;
+}
+
+.page2-container{
+    position: absolute;
+    top: 100%;;
+}
+
+.page3-container {
+    text-align: center;
+}
+
